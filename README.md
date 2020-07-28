@@ -7,8 +7,12 @@ What it says on the box:
 - Static App
 - Template
 
+## Features
+
+- eslint + typescript + prettier + lint-staged
+
 ## Getting Started
 
 ```
-git clone
+git clone git@github.com:lukebatchelor/2020-typescript-webpack-static-app-template.git
 ```
